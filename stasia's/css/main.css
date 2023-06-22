@@ -229,7 +229,7 @@ nav ul li a:hover:before {
     animation: reveal 1s ease-in forwards;
     transform-origin: bottom;
 }
-
+/*
 @keyframes reveal{
     from{
         tranform: scaleY(1);
@@ -248,3 +248,4 @@ main{
         transform: scale(1)
     }
 }
+*/
